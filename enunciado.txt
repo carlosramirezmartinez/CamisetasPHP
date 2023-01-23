@@ -1,0 +1,56 @@
+
+DESARROLLO EN ENTORNO SERVIDOR ( CURSO 2020-2021)
+PROYECTO 2º TRIMESTRE TIENDA DE CAMISETAS
+La aplicación tienda de camisetas del máster de desarrollo web en PHP de Victor Robles es una aplicación de aprendizaje
+que incluye varias de las funcionalidades que debería tener una tienda de comercio electrónico. 
+ 
+Teniendo en cuenta que es un proyecto didáctico, esto permite muchas mejoras y correcciones para ofrecer más funcionalidades,
+mayor seguridad y rendimiento.
+La idea de esta tarea es enfrentarnos a un proyecto funcional al que debemos añadir distintas mejoras. 
+Algunos de los cambios sólo afectarán a las vistas, otros a los controladores, o los modelos y en algunos casos deberemos incluir
+nuevos campos en la BD. Se trata de implementar las mejoras sin afectar al resto del funcionamiento de la aplicación.
+Este proyecto es de entrega obligatoria y su calificación vendrá dada por el número de funcionalidades correctamente implementadas.
+
+
+El alumno puede elegir cualquiera de ellas, siendo necesario realizar 5 para aprobar la tarea.
+
+
+
+LISTA DE MEJORAS A IMPLEMENTAR (Mínimo 5 ) 
+
+1º Añadir la gestión de Usuarios (Administrador)
+
+
+2º Gestión de Usuarios (Usuario normal)
+
+
+3º Mejorar la gestión de categorías 
+
+
+4º Gestión de Productos.
+
+
+5º Productos en oferta.
+
+
+6º Manejar el Stock de productos
+
+
+7º Incluir un sistema de paginación en la lista de productos.
+
+
+8º Generar un PDF al tramitar el pedido.
+
+
+9º Mejorar la gestión de pedidos
+
+
+10º Incluir cualquier otra funcionalidad o mejora que se os ocurra previa consulta al profesor.
+
+EXTRAS
+I. Realizar una versión responsive (CARMEN).
+Esta versión debe permitir el uso amigable desde un terminal móvil.
+Actualmente en el diseño web para móvil es prioritario (mobile first)
+
+II.- Desplegar la aplicación en un hosting, indicando la URL al profesor (JOSÉ EMILIO)
+
